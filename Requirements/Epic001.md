@@ -5,8 +5,8 @@
 
 |For | Accredited Access Points (R002)|
 |---:|:---|
-|**Who** | Send messages on behalf of Australian businesses (R001)|
-|**the** | Digital Capability Locator (R004)|
+|**Who** | Send messages on behalf of Australian businesses [(R001)][1]|
+|**the** | Digital Capability Locator [(R004)][1]|
 |**Is a** | Trusted source of digital capability address records|
 |**That** | Support the dynamic discovery of digital capability metadata|
 |**Unlike** | SuperStream Fund Validation Service|
@@ -30,3 +30,5 @@ In addition to the general QoS requirements outlined in the DCL Quality of Servi
 - **Security**: Compliance with the Information Security Manual and all relevant ASD specified controls. (Australian Signals Directorate, 2016) 
 - **Standards Conformance**: OASIS BDX-Location Specification. (OASIS, 2014)
 
+
+[1]:https://github.com/Digital-Business-Council/Digital-Capability-Locator/blob/master/Requirements/Introduction.md#22--description-of-actors
