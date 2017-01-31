@@ -1,0 +1,13 @@
+site_name: Digital Capability Locator
+
+repo_url: https://github.com/ausdigital/ausdigital-dcl
+
+pages:
+
+    - 'Disclaimer & Audience': 'Index.md'
+
+    - 'Introduction': 'Introduction.md'
+
+    - 'Epic Overview': 'Epics.md'
+
+    - 'Epic 001': 'Epic001.md'
