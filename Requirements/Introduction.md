@@ -1,7 +1,7 @@
 # 2.	Introduction
 ## 2.1	Overview
 The Digital Business Council (Council) provides a framework for interoperability in digital business, expressed as a set of technical specifications (Profiles) and usage guidelines (Implementation Guides). Profiles and Implementation Guides are designed to facilitate effective business based on a modular approach for implementation, with a focus on global interoperability.
-Council Profiles can be seen as ‘agreements’ on message contents and business processes. The profile descriptions focus on the core information elements that typically cater to the majority of user requirements applicable across Australia and lower the need for detailed bilateral agreements between the trading partners.
+Council Profiles can be seen as agreements on message contents and business processes. The profile descriptions focus on the core information elements that typically cater to the majority of user requirements applicable across Australia and lower the need for detailed bilateral agreements between the trading partners.
 
 The Digital Capability Locator (DCL) is used by Access Points to enable the eInvoicing process.  Figure 1 highlights the role of the DCL within the standard four-corner model.
  
