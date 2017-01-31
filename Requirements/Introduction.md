@@ -46,7 +46,7 @@ R015 | DCL Operator | Organisation | The organisation that runs, operates and ma
 
 Figure 2 shows the relationship between the key actors and the Digital Capability Locator:
  
-*Figure 2. DCL Key Actors and Resltionships*
+*Figure 2. DCL Key Actors and Relationships*
  
 ## 2.3	Key Definitions
 The following table contains a definition of key terms used throughout this document.
