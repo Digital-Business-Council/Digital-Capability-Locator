@@ -5,7 +5,7 @@ Council Profiles can be seen as agreements on message contents and business proc
 
 The Digital Capability Locator (DCL) is used by Access Points to enable the eInvoicing process.  Figure 1 highlights the role of the DCL within the standard four-corner model.
  
-![Four-corner model](../images/FourCornerModel-01.png)
+![Four-corner model](images/FourCornerModel-01.png)
 *Figure 1 Four-corner model*
 
 
