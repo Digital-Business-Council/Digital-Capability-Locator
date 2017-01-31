@@ -29,20 +29,16 @@ The following table contains descriptions of the key actors (natural persons, or
 ID | Actor/Role	| Category | Description
 ---|---|---|---
 R001 | Australian Business | Organisation | Synonyms - Participant
-R002 | Accredited Access Point (AP) | System | A software system offering Access Point Services that has been tested and accredited in accordance with the Council’s Interoperability Framework.
-Synonyms – Access Point
-R003 | Accredited Digital Capability Publisher (DCP) | System | A software system offering DCP services that has been tested and accredited in accordance with the Council’s Interoperability Framework.
-Synonyms – Digital Capability Publisher
+R002 | Accredited Access Point (AP) | System | A software system offering Access Point Services that has been tested and accredited in accordance with the Council’s Interoperability Framework. Synonyms – Access Point
+R003 | Accredited Digital Capability Publisher (DCP) | System | A software system offering DCP services that has been tested and accredited in accordance with the Council’s Interoperability Framework. Synonyms – Digital Capability Publisher
 R004 | Digital Capability Locator (DCL) | System | Described by this document.
 R005 | DCL Operations Support Staff | Natural Person | Staff who support the day to day operations of the DCL.  This includes responding to queries and operational issues.
 R006 | DCL Maintenance Staff | Natural Person | Staff who maintain (build, test and deploy) changes and enhancements to the DCL.
 R007 | DBC Technical Working Group | Forum | The Council’s Working Group responsible for the creation of the framework’s technical design and supporting Implementation Guides.
 R008 | Accreditation Authority | Natural Person | An individual with the delegation to issue, suspend or revoke an organisation’s accreditation.
 R009 | Accreditation Support Staff | Natural Person | A staff member who supports the Accreditation Authority to fulfil its duties,
-R010 | Accredited Access Point Provider | Organisation | The organisation/legal entity which operates an Accredited Access Point – R002.
-Synonyms – Accredited Service Provider
-R011 | Accredited Digital Capability Publisher Provider | Organisation | The organisation/legal entity which operates an Accredited Digital Capability Publisher – R003.
-Synonyms – Accredited Service Provider
+R010 | Accredited Access Point Provider | Organisation | The organisation/legal entity which operates an Accredited Access Point – R002. Synonyms – Accredited Service Provider
+R011 | Accredited Digital Capability Publisher Provider | Organisation | The organisation/legal entity which operates an Accredited Digital Capability Publisher – R003. Synonyms – Accredited Service Provider
 R012 | Assigned Testing Partner Organisation  | Organisation | Any Accredited Service Provider (R010 & R011) assigned to support interoperability testing.
 R013 | DBC Secretariat | Organisation | Provides a mechanism to clarify testing problems and facilitates dispute resolution.
 R014 | Identifier Issuing Authority | Organisation | ABR, GS1, Dun and Bradstreet
