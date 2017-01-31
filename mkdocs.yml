@@ -8,7 +8,7 @@ pages:
             - 'Overview of Epics': 'Epics.md'
             - 'Epic 001': 'Epic001.md' 
             - 'Epic 002': 'Epic002.md'
-    - Quality of Service Requirements
+    - Quality of Service Requirements:
         - 'Introduction': 'Quality of Service Requirements/Introduction.md'
     - Architecture:
         - 'Arch 1': 'index.md'
