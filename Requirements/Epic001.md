@@ -3,7 +3,7 @@
 ### Epic Value Statement
 
 
-|For | Accredited Access Points (R002)|
+|For | Accredited Access Points [(R002)][1]|
 |---:|:---|
 |**Who** | Send messages on behalf of Australian businesses [(R001)][1]|
 |**the** | Digital Capability Locator [(R004)][1]|
