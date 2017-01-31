@@ -1,6 +1,7 @@
-## 3.1	EPIC 001 - Lookup Participant's Digital Capability Address
+## EPIC 001 - Lookup Participant's Digital Capability Address
 
 ### Epic Value Statement
+
 ---|---
 For | Accredited Access Points (R002)
 Who | Send messages on behalf of Australian businesses (R001)
@@ -11,6 +12,7 @@ Unlike | SuperStream Fund Validation Service
 Our solution | Is publicly accessible to anonymous users and is extensible to support multiple identifier schemes. (Digital Business Council, 2016c)
 
 ### Scope
+
 ---|---
 Success Criteria | * Digital Capability Address Records can be retrieved from the solution in line with the Quality of Service Requirements.
 In scope | * Conformance with section 7 and sub-section 8.1 of the Digital Business Council DCL Implementation Guide. (Digital Business Council, 2016b)
