@@ -2,6 +2,7 @@
 ## 2.1	Overview
 The Digital Business Council (Council) provides a framework for interoperability in digital business, expressed as a set of technical specifications (Profiles) and usage guidelines (Implementation Guides). Profiles and Implementation Guides are designed to facilitate effective business based on a modular approach for implementation, with a focus on global interoperability.
 Council Profiles can be seen as ‘agreements’ on message contents and business processes. The profile descriptions focus on the core information elements that typically cater to the majority of user requirements applicable across Australia and lower the need for detailed bilateral agreements between the trading partners.
+
 The Digital Capability Locator (DCL) is used by Access Points to enable the eInvoicing process.  Figure 1 highlights the role of the DCL within the standard four-corner model.
  
 
@@ -10,14 +11,21 @@ The Digital Capability Locator (DCL) is used by Access Points to enable the eInv
 
 
 The Digital Capability Locator and Digital Capability Publisher are needed for an Access Point to determine the destination of a message in a dynamic environment. The Digital Capability Locator is a mapping of participant identifiers to the digital address of the participant’s Digital Capability Publisher. 
+
+
 The Digital Capability Locator Implementation Guide (Digital Business Council, 2016b) incorporates the Council’s Metadata Service Location Profile which describes a technical specification for the automated lookup of digital address information for a participant's capability metadata. The profile is based on the OASIS Business Document Metadata Service Location Committee Specification Version 01 (OASIS, 2014) which standardises retrieval of information about a participant's digital address.  The specification is based on the successful implementation within the PEPPOL program.
+
+
 The Digital Capability Locator Implementation Guide provides further guidance for service consumers, specifically in relation to the management of participant and Digital Capability Publisher information stored in the Digital Capability Locator.
 A single, centralised Digital Capability Locator will exist in a four-corner model and MUST implement the Council’s profile.
+
 This document provides the high-level business requirements for the Digital Capability Locator in the format of Agile Epics.   Most Epics have a direct reference back to the Council’s interoperability Framework and specifically the Digital Capability Locator Implementation Guide.
 
 
 ## 2.2	Description of Actors
 The following table contains descriptions of the key actors (natural persons, organisations and systems) referenced in this document.
+
+
 ID | Actor/Role	| Category | Description
 ---|---|---|---
 R001 | Australian Business | Organisation | Synonyms - Participant
@@ -50,8 +58,7 @@ The following table contains a definition of key terms used throughout this docu
 Term | Definition
 ---|---
 Accreditation | Accreditation is a process by which an Access Point Provider or a Digital Capability Publisher Service Provider is recognised by the Digital Business Council (Council) as having met certain technical criteria. It should be noted that accreditation is mandatory for a Service Provider (Access Point or Digital Capability Publisher) if it intends to provide services under the Council’s Framework.
-Accredited Service Provider | An organisation who has been accredited to operate in accordance with the eInvoicing Interoperability Framework.  
-(Refer section 2.2 R010 or R011)
+Accredited Service Provider | An organisation who has been accredited to operate in accordance with the eInvoicing Interoperability Framework.  (Refer section 2.2 R010 or R011)
 Anonymous | Anonymous, in a general computing context, means keeping a user's name and identity concealed through various applications.
 Application Programming Interface (API) | Just as a graphical user interface makes it easier for people to use programs, application programming interfaces make it easier for developers to use certain technologies in building applications through abstraction  of the underlying implementation and exposure of only the objects or actions the developer needs.
 Business | An enterprise conducting economic activity.
