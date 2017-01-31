@@ -8,7 +8,7 @@ pages:
             - 'Overview of Epics': 'Epics.md'
             - 'Epic 001': 'Epic001.md' 
     - Architecture:
-        - 'Arch 1' : 'index.md'
-    - 'API Defintions' : 'index.md'
-    - 'Test Assertions' : 'index.md'
+        - 'Arch 1': 'index.md'
+    - 'API Defintions': 'index.md'
+    - 'Test Assertions': 'index.md'
 theme: mkdocs
