@@ -4,4 +4,6 @@ repo_url: https://github.com/Digital-Business-Council/Digital-Capability-Locator
 
 pages:
     - 'Disclaimer & Audience': 'Index.md'
+    - 'Introduction': 'Introduction.md'
     - 'Overview of Epics': 'Epics.md'
+    - 'Epic 001': 'Epic001.md' 
