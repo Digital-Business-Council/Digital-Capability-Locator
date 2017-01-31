@@ -5,3 +5,4 @@ pages:
     - 'Introduction': 'Introduction.md'
     - 'Overview of Epics': 'Epics.md'
     - 'Epic 001': 'Epic001.md' 
+theme: mkdocs
