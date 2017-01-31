@@ -2,12 +2,14 @@ site_name: Digital Capability Locator
 repo_url: https://github.com/Digital-Business-Council/Digital-Capability-Locator
 pages:
     - 'Disclaimer & Audience': 'index.md'
-    - Requirements:
+    - Business Requirements:
         - 'Introduction': 'Introduction.md'
         - Epics:
             - 'Overview of Epics': 'Epics.md'
             - 'Epic 001': 'Epic001.md' 
             - 'Epic 002': 'Epic002.md'
+    - Quality of Service Requirements
+        - 'Introduction': 'Quality of Service Requirements\Introduction.md'
     - Architecture:
         - 'Arch 1': 'index.md'
     - 'API Defintions': 'index.md'
