@@ -27,11 +27,11 @@ DCL WORKING GROUP | SOLUTION IMPLEMENTER |SOLUTION OPERATOR
 Those involved in the DCL Implementation Working Group.	| The party responsible for designing, building and implementing the Digital Capability Locator Solution. | The party responsible for the ongoing support and operation of the Digital Capability Locator Solution.
 
 
-Audience Reading Guide | DCL WORKING GROUP | SOLUTION IMPLEMENTER | SOLUTION OPERATOR
----|---|---|---
-Introduction | 3 | - | - |	 	 	 
-Epic Value Statements	| 4 | | |	 	 	 
-References	 |5 | | |
+Audience Reading Guide | Section | DCL WORKING GROUP | SOLUTION IMPLEMENTER | SOLUTION OPERATOR
+---|---|---|---|---
+Introduction | 3 | - | - | -	 	 	 
+Epic Value Statements	| 4 | - | - | -		 	 	 
+References	 |5 | - | - | -	
 
 	 	 
 Primary Audience Secondary Audience 
