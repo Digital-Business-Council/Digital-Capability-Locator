@@ -2,14 +2,13 @@
 
 ### Epic Value Statement
 
-| | |
-For | Accredited Access Points (R002)
-Who | Send messages on behalf of Australian businesses (R001)
-the | Digital Capability Locator (R004)
-Is a | Trusted source of digital capability address records
-That | Support the dynamic discovery of digital capability metadata
-Unlike | SuperStream Fund Validation Service
-Our solution | Is publicly accessible to anonymous users and is extensible to support multiple identifier schemes. (Digital Business Council, 2016c)
+|For | Accredited Access Points (R002)|
+|Who | Send messages on behalf of Australian businesses (R001)|
+|the | Digital Capability Locator (R004)|
+|Is a | Trusted source of digital capability address records|
+|That | Support the dynamic discovery of digital capability metadata|
+|Unlike | SuperStream Fund Validation Service|
+|Our solution | Is publicly accessible to anonymous users and is extensible to support multiple identifier schemes. (Digital Business Council, 2016c)|
 
 ### Scope
 
