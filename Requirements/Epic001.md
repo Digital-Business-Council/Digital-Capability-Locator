@@ -24,7 +24,9 @@
 - Maintenance of digital capability address records
 
 **Quality of Service Requirements:** 
+
 In addition to the general QoS requirements outlined in the DCL Quality of Service Requirements document, the following apply to this EPIC and its sub-ordinate User Stories: 
-	- **Security**: Compliance with the Information Security Manual and all relevant ASD specified controls. (Australian Signals Directorate, 2016) 
-	- **Standards Conformance**: OASIS BDX-Location Specification. (OASIS, 2014)
+
+- **Security**: Compliance with the Information Security Manual and all relevant ASD specified controls. (Australian Signals Directorate, 2016) 
+- **Standards Conformance**: OASIS BDX-Location Specification. (OASIS, 2014)
 
