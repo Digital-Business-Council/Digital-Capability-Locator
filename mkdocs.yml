@@ -7,6 +7,7 @@ pages:
         - Epics:
             - 'Overview of Epics': 'Epics.md'
             - 'Epic 001': 'Epic001.md' 
+            - 'Epic 002': 'Epic002.md'
     - Architecture:
         - 'Arch 1': 'index.md'
     - 'API Defintions': 'index.md'
