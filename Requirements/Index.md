@@ -8,8 +8,9 @@ Whilst every effort has been made to ensure that the material contained in the d
 Hereby disclaim any liability, direct or indirect, for damages or loss relating to the use of the document. The document may be modified, subject to developments in technology, changes to the standards, or new legal requirements without notice. Any product and company name mentioned herein may be trademarks and/or registered trademarks of its respective company.
 
 ### Copyright
-The copyright for all drafts and publications belongs to the Council. 
+The copyright for all drafts and publications belongs to the Council.
  
+![CC4 Logo](https://i.creativecommons.org/l/by/4.0/88x31.png)
  
 This work is licensed under a Creative Commons Attribution 4.0 International License.
 You are free to copy, communicate and adapt the work, so long as you attribute the work to Council and do not suggest that the Council endorses you or your work.
