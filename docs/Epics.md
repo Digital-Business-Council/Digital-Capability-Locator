@@ -8,8 +8,8 @@ The following table provides an initial list of the Epics that have been identif
 
 Epic ID	| Title	| Epic Status	| User Stories Status
 ---|---|---|---
-EPIC 001 | Lookup Participant's Digital Capability Address | Approved | Draft
-EPIC 002 | Maintain Participant's Digital Capability Address | Approved	 | Draft
+[EPIC 001](Epic001.md) | Lookup Participant's Digital Capability Address | Approved | Draft
+[EPIC 002](Epic002.md) | Maintain Participant's Digital Capability Address | Approved	 | Draft
 EPIC 003 | Lookup Accredited Service Provider Information | Approved | Draft
 EPIC 004 | Maintain Accredited Service Provider Information | Approved | Draft
 EPIC 005 | On-boarding a large number of participants | Approved | Draft
