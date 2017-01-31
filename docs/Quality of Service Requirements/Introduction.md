@@ -1,9 +1,9 @@
-﻿# Introduction
+﻿
+# Introduction
 
 This document articulates the Quality of Service (non-functional) requirements of the Digital Capability Locator (DCL) and related services that will conform to the technical specifications (“Profiles”) and usage guidelines (“Implementation Guidance”) of the eInvoicing Interoperability Framework .  
 
 The information contained in this document is divided into two distinct parts:
-
 - General quality of service requirements that apply to any DCL implementation; and
 - Additional quality of service requirements if the solution is hosted by an Australian Government Agency.  These additional requirements will ensure the solution aligns with the relevant policies and standards expected of the Australian Government;
 
@@ -11,14 +11,12 @@ The information contained in this document is divided into two distinct parts:
 ## Document Scope
 
 The scope of this document shall include:
-
 - The DCL; 
 - The data contained in the DNS;
 - The transmission between the DCL and the DNS; and 
 - The DNS where digital addresses that may lead to business information shall be stored; 
 
 The following are not within the scope of this document:
-
 - The functional requirements of the DCL or the DNS; and
 - Specific security controls or solution performance targets;  
 
