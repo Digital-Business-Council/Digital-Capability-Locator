@@ -10,7 +10,8 @@
 |**Is a** | Suite of Application Programming Interfaces (APIs)|
 |**That** | Enable the secure creation and deletion of participant digital capability address records.|
 |**Unlike** | - |
-|**Our solution** | - |
+|**Our solution** | - |
+
 
 ### Scope
 
@@ -37,8 +38,9 @@
 In addition to the general QoS requirements outlined in the DCL Quality of Service Requirements document, the following apply to this EPIC and its sub-ordinate User Stories: 
 
 - **Standards Conformance**: 
-	- Australian Government’s Digital Service Standard and API Implementation Guide.
-	- <insert reference to IEFT HTTP RFC>
+	- Australian Governmentâ€™s Digital Service Standard and API Implementation Guide.
+	- *insert reference to IEFT HTTP RFC*
+
 
 
 [1]:https://github.com/Digital-Business-Council/Digital-Capability-Locator/blob/master/Requirements/Introduction.md#22--description-of-actors
