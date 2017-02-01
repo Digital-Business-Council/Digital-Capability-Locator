@@ -13,5 +13,5 @@ pages:
     - Architecture:
         - 'Arch 1': 'Architecture/Introduction.md'
     - 'API Definitions': 'API Definitions/Introduction.md'
-    - 'Test Assertions': 'Test Assertions/Introduction.md'
+    - 'API Test Assertions': 'API Test Assertions/Introduction.md'
 theme: mkdocs
