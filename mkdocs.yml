@@ -11,7 +11,7 @@ pages:
     - Quality of Service Requirements:
         - 'Introduction': 'Quality of Service Requirements/Introduction.md'
     - Architecture:
-        - 'Arch 1': 'index.md'
-    - 'API Defintions': 'index.md'
-    - 'Test Assertions': 'index.md'
+        - 'Arch 1': 'Architecture/Introduction.md'
+    - 'API Definitions': 'API Definitions/Introduction.md'
+    - 'Test Assertions': 'Test Assertions/Introduction.md'
 theme: mkdocs
